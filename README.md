@@ -3,7 +3,7 @@ Classification of Motor Imagery EEG signal using sparsity approach
 
 # Dataset used:
 
-Dataset IIIa from BCI competition III.
+Dataset IIIa from BCI competition III <http://www.bbci.de/competition/iii/#data_set_iiia>.
 
 # Installation
 
