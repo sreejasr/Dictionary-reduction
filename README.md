@@ -1,4 +1,4 @@
-# MI-classification-using-sparsity
+# Multiclass MI-classification-using-sparsity
 Classification of Motor Imagery EEG signal using sparsity approach
 
 # Dataset used:
