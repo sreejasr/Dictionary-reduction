@@ -3,7 +3,6 @@ Reducing the dictionary (code book) size generated from Motor Imagery EEG signal
 
 # Dataset used:
 
-Dataset IVa from BCI competition III <https://www.bbci.de/competition/iv/#dataset1>.<br>
 Dataset IIIa from BCI competition III <http://www.bbci.de/competition/iii/#data_set_iiia>.
 
 
